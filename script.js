@@ -5,9 +5,9 @@ const projectCycleImages = {
     "./Assets/Pictures/MazeGame (3).png",
   ],
   2: [
-    "./Assets/Pictures/Space (1).png",
-    "./Assets/Pictures/Space (2).png",
-    "./Assets/Pictures/Space (3).png",
+    "./Assets/Pictures/GitHubManager (1).png",
+    "./Assets/Pictures/GitHubManager(2).png",
+    "./Assets/Pictures/GitHubManager(3).png",
   ],
   3: [
     "./Assets/Pictures/UnSprouted (1).png",

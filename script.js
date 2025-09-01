@@ -1,8 +1,8 @@
 const projectCycleImages = {
   1: [
-    "./Assets/Pictures/MazeGame (1).png",
-    "./Assets/Pictures/MazeGame (2).png",
-    "./Assets/Pictures/MazeGame (3).png",
+    "./Assets/Pictures/weatherapp (1).png",
+    "./Assets/Pictures/weatherapp (2).png",
+    "./Assets/Pictures/weatherapp (3).png",
   ],
   2: [
     "./Assets/Pictures/GitHubManager (1).png",

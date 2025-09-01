@@ -265,7 +265,7 @@ section{
     bottom: 40px;
 }
 .details-container{
-    padding: 24px;
+    padding: 15px;
     flex: 1;
     background: white;
     border-radius: 32px;
@@ -334,8 +334,8 @@ article .icon{
 }
 .project-img{
     border-radius: 32px;
-    width: 90%;
-    height: 90%;
+    width: 362px;
+    height: 590px;
 }
 .project-title{
     margin: 16px;
@@ -357,6 +357,7 @@ article .icon{
     background-color: yellow;
     
 }
+
 /* Contact Section */
 
 #contact{
